@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sree
 - 👀 I’m interested in data to drive improvements in the decisions we make every day
 - 🌱 I’m currently learning/practicing/improving my skills in  SQL, Python,R 
-- 💞️ I’m looking to collaborate on practice projects to improve skills in Data Science. 
+- 💞️ I’m looking to collaborate and practice projects to improve skills in Data Science. 
 - 📫 How to reach me
 -       kaggle:https://www.kaggle.com/sreemkp
 -       medium : @mpemira

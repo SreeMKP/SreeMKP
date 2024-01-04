@@ -7,7 +7,7 @@ Data Scientist | Data Analyst | Clinical Research Associate
 Professional with medical & Clinical research background with a passion for data. Significant experience in Clinical Research with publications in peer-reviewed medical journals. Looking to apply my knowledge, experience to drive improvements & solve problems in Health Care.
 
 *   🌍  I'm based in San Francisco
-*   🧠  I'm learning Machine learning
+*   🧠  I'm learning Statistics,Machine learning
 *   🤝  I'm open to collaborating on Python, R,SQL, ML, Learning to code
 *   ### Skills 
 <p align="left">
